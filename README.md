@@ -1,6 +1,6 @@
 # DOCKER COMPOSE CONFIG
 
-run docker-compose up -d to create the instance
+run docker-compose up -d to create and run the instance
 
 php-apache server run on localhost
 mysql server run on localhost:6603
